@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016801_0000_0F9E79F5AC9B4FC0"/>
-            <pb facs="tcp:016801_0001_0F9E79F66F975D68" rendition="simple:additions"/>
+            <pb facs="unknown:016801_0000_0F9E79F5AC9B4FC0"/>
+            <pb facs="unknown:016801_0001_0F9E79F66F975D68"
+                rendition="simple:additions"/>
             <p>A POEM, Addreſſed to the ARMIES OF THE UNITED STATES OF AMERICA. BY A GENTLEMAN OF THE ARMY.</p>
             <q>
                <l>Iam fides, et pax, et honor, pudorque</l>
@@ -128,20 +129,20 @@
       </front>
       <body>
          <div type="dedication">
-            <pb facs="tcp:016801_0002_0F9E79F7249E5FD8"/>
+            <pb facs="unknown:016801_0002_0F9E79F7249E5FD8"/>
             <p>TO All the BRAVE MEN, Whether OFFICERS or SOLDIERS, Who compoſe The ARMIES of the <hi>United States,</hi> This ADDRESS IS Moſt reſpectfully inſcribed, BY Their Brother Soldier AND Humble Servant, The AUTHOR.</p>
          </div>
          <div type="to_the_reader">
-            <pb n="5" facs="tcp:016801_0003_0F9E79F815A2C5C8"/>
+            <pb n="5" facs="unknown:016801_0003_0F9E79F815A2C5C8"/>
             <p>PERHAPS the following little Poem may be conſidered with the more indulgence by the Public, after it is known, that it was actually writ<g ref="char:EOLhyphen"/>ten, at a period when the Army was in the field, and the Author ſo far engaged in the duties of his profeſſion, as to have but little leiſure for ſubjects of literature or amuſement. And it will not be neceſſa<g ref="char:EOLhyphen"/>ry to demonſtrate to thoſe who have the leaſt know<g ref="char:EOLhyphen"/>ledge of a military life, how unfavourable ſuch a a ſtate is to poetical contemplation. This, it is pre<g ref="char:EOLhyphen"/>ſumed, may pertinently be urged in excuſe for the ſlighter errors, and inaccuracies of the performance; and the Deſign muſt in ſome meaſure atone, for any of a different complexion.</p>
             <p>To inſpire our Countrymen now in arms, or who may hereafter be called into the field, with perſeve<g ref="char:EOLhyphen"/>rance and fortitude, thro' every ſpecies of difficulty and danger, to continue their exertions for the de<g ref="char:EOLhyphen"/>fence of their country, and the preſervation of its Liberties, is the object of this Addreſs.</p>
             <p>For this purpoſe, it was imagined, no conſiderati<g ref="char:EOLhyphen"/>ons could be more effectual, than the recollection of the paſt, and the anticipation of the future. For where is the man to be found, who, after all that has been done and ſuffered; after ſuch a profuſion of blood, and treaſure has been expended; and ſuch important advantages have been obtained; would baſely relinquiſh, and leave unfiniſhed the illuſtrious taſk of <hi>rearing</hi> an EMPIRE, which from its ſituation, and circumſtances, muſt ſurpaſs all that ever have exiſted, in magnitude, felicity and duration?</p>
             <p>Altho' the Author entertains the moſt ſanguine expectations of the gratitude and liberality, with which the Continent will reward thoſe who have li<g ref="char:EOLhyphen"/>terally
-<pb n="6" facs="tcp:016801_0004_0F9E79F9405382E8"/>
+<pb n="6" facs="unknown:016801_0004_0F9E79F9405382E8"/>
 borne the heat and burden of the day of war; he has not inſiſted on thoſe pecuniary or ſlighter conſiderations: but has attempted, to turn the at<g ref="char:EOLhyphen"/>tention, to the future grandeur, happineſs, and glory of the Country, for which we are now contending. —The lands already granted to the Army, firſt ſug<g ref="char:EOLhyphen"/>geſted the idea of a military ſettlement on the Ohio, or in ſome of thoſe Weſtern regions; whoſe beauties can never be ſufficiently diſplayed, much leſs exaggerated by deſcription. The mild tempe<g ref="char:EOLhyphen"/>rature and ſerenity of the air, the ſalubrity of the climate, the fertility of the ſoil, the luxuriance of its products, the extent of territory, and the amaz<g ref="char:EOLhyphen"/>ing inland navigation, which thoſe boundleſs lakes, and immeaſurable rivers will open; cannot fail one day, to equal that garden of the world to the re<g ref="char:EOLhyphen"/>preſentation given of it, in the concluſion of the Poem. The poſſeſſion of ſuch a Country, (reſcued from the hand of invaſion) in a perfect ſtate of free<g ref="char:EOLhyphen"/>dom and ſecurity, will be a glorious compenſation for all our toils and ſufferings, and a monument of the moſt unparalell'd bravery and patriotiſm to the remoteſt poſterity.—Stimulated with the love of glory, allured by theſe delightful proſpects, and animated with the pleaſing hope of the ſpeedy fru<g ref="char:EOLhyphen"/>ition of thoſe rapturous ſcenes; there are thouſands who have drawn the ſword, with a reſolution never to ſheath it, until a happy period is put to the con<g ref="char:EOLhyphen"/>teſt.—For himſelf, the Writer declares, that hav<g ref="char:EOLhyphen"/>ing already devoted, whatever talents and abilities nature has conferred upon him, to the ſervice of his Country; no efforts that can be made with his voice, his pen, or his ſword, ſhall ever be wanting to confirm its LIBERTIES and INDEPENDENCE.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:016801_0005_0F9E79F997883350"/>
+            <pb facs="unknown:016801_0005_0F9E79F997883350"/>
             <head>An Addreſs to the Army, &amp;c.</head>
             <lg>
                <l>YE martial bands! Columbia's faireſt pride!</l>
@@ -182,7 +183,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>And ſudden blaz'd the waſting flame of war;</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:016801_0006_0F9E79FA77267050"/>
+               <pb n="8" facs="unknown:016801_0006_0F9E79FA77267050"/>
                <l>From State to State, ſwift flew the dire alarms,</l>
                <l>And ardent Youths impetuous ruſh'd to Arms:</l>
                <l>To Arms the matrons and the virgins ſung,</l>
@@ -229,7 +230,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>Beam'd the bright ſplendor of Virginia's Star.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:016801_0007_0F9E79FAE1281920"/>
+               <pb n="9" facs="unknown:016801_0007_0F9E79FAE1281920"/>
                <l>Oh firſt of hero's! fav'rite of the ſkies!</l>
                <l>To theſe dread toils, thy country bade thee riſe.</l>
                <l>Oh born, beyond the lot of mortals brave!</l>
@@ -271,7 +272,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>What! when you fled before ſuperior force,</l>
                <l>Each ſuccour loſt, and periſh'd each reſource;</l>
                <l>
-                  <pb n="10" facs="tcp:016801_0008_0F9E79FCACDAC9C0"/>When nought was ſeen around, but proſpects drear,</l>
+                  <pb n="10" facs="unknown:016801_0008_0F9E79FCACDAC9C0"/>When nought was ſeen around, but proſpects drear,</l>
                <l>Th' inſulting foe hung dreadful on your rear;</l>
                <l>And boaſtful ween'd that day to cloſe the ſcene,</l>
                <l>And quench your name, as tho' it ne'er had been.</l>
@@ -319,7 +320,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>On high deſigns—and e'er the dawning hour,</l>
                <l>Germania's vet'rans own'd the victor's pow'r—</l>
                <l>
-                  <pb n="11" facs="tcp:016801_0009_0F9E79FD8F76F048"/>Or on fait Princeton's plain—where round thy tomb,</l>
+                  <pb n="11" facs="unknown:016801_0009_0F9E79FD8F76F048"/>Or on fait Princeton's plain—where round thy tomb,</l>
                <l>Oh gallant Mercer! deathleſs laurels bloom.—</l>
                <l>Or where anon, in northern fields renown'd,</l>
                <l>The tide of ſlaughter ſtain'd the ſanguine ground;</l>
@@ -365,7 +366,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>With ſurer aim, repel their barb'rous rage,</l>
                <l>Shield the poor orphan, and the white-hair'd ſage:</l>
                <l>
-                  <pb n="12" facs="tcp:016801_0010_0F9E79FE1E9CD290"/>Defend the matron, and the virgin's charms,</l>
+                  <pb n="12" facs="unknown:016801_0010_0F9E79FE1E9CD290"/>Defend the matron, and the virgin's charms,</l>
                <l>And vindicate our ſacred rights with arms.</l>
                <l>This, the great <hi>Genius</hi> of our land requires,</l>
                <l>This, the bleſt ſhades of our illuſtrious ſires;</l>
@@ -410,7 +411,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>See the red flags that to the winds udfurl'd,</l>
                <l>Wav'd in proud triumph round the vanquiſh'd world,</l>
                <l>
-                  <pb n="13" facs="tcp:016801_0011_0F9E79FF0A9676E8"/>Inglorious fly:—and ſee their hagard crew</l>
+                  <pb n="13" facs="unknown:016801_0011_0F9E79FF0A9676E8"/>Inglorious fly:—and ſee their hagard crew</l>
                <l>Deſpair, rage, ſhame and infamy purſue.</l>
             </lg>
             <lg>
@@ -455,7 +456,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>Herbs, fruits &amp; flow'rs, ſhall clothe th' uncultur'd field;</l>
                <l>Nectarious juice, the vine and orchard yield;</l>
                <l>
-                  <pb n="14" facs="tcp:016801_0012_0F9E79FFCF1FD380"/>Rich dulcet creams the copious goblets fill,</l>
+                  <pb n="14" facs="unknown:016801_0012_0F9E79FFCF1FD380"/>Rich dulcet creams the copious goblets fill,</l>
                <l>Delicious honey from the trees diſtill,</l>
                <l>The garden ſmile, ſpontaneous harveſts ſpring,</l>
                <l>The woodlands warble, and the vallies ſing.</l>
@@ -502,7 +503,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>Or cauſe the hamlet, lull'd in deep repoſe,</l>
                <l>No more to wake, or wake to ceaſeleſs woes:</l>
                <l>
-                  <pb n="15" facs="tcp:016801_0013_0F9E7A0029984508"/>For your ſtrong arm the guarded land ſecures,</l>
+                  <pb n="15" facs="unknown:016801_0013_0F9E7A0029984508"/>For your ſtrong arm the guarded land ſecures,</l>
                <l>And freedom, glory, happine<gap reason="illegible: indecipherable" extent="2 letters">
                      <desc>••</desc>
                   </gap> are yours.—</l>
@@ -582,7 +583,7 @@ borne the heat and burden of the day of war; he has not inſiſted on thoſe pec
                <l>As round thy clime, celeſtial joy extends,</l>
                <l>Thy beauties ripen, and thy pomp aſcends,</l>
                <l>
-                  <pb n="16" facs="tcp:016801_0014_0F9E7A00F7BF7FE8"/>Farther and farther <gap reason="illegible: indecipherable" extent="1 word">
+                  <pb n="16" facs="unknown:016801_0014_0F9E7A00F7BF7FE8"/>Farther and farther <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, thy bleſſings roll,</l>
                <l>To ſouthern Ocean and the northern Pole</l>
